@@ -212,7 +212,7 @@ const toggleMainVideo = () => {
                   </span>
                 </div>
 
-                <h1 className="text-6xl md:text-8xl font-header leading-none">
+                <h1 className="text-5xl md:text-8xl font-header leading-none">
                   <span className="bg-gradient-to-r from-pink-400 via-red-400 to-purple-400 bg-clip-text text-transparent">
                     HAPPY
                   </span>
